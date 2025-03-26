@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paceeba-Rick
+- 👋 Hi, I’m Paceeba.
 - 👀 I’m interested in full stack developement and entrepreneurship
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on any of the the above fieleds.
